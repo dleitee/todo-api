@@ -22,7 +22,6 @@
     "express-session": "^1.10.2",
     "mongoose": "^3.8.23",
     "passport": "^0.2.1",
-    "passport-http": "^0.2.2",
-    "passport-http-bearer": "^1.0.1"
+    "passport-http": "^0.2.2"
   }
 }
