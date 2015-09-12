@@ -13,7 +13,7 @@
     "api",
     "todo"
   ],
-  "author": "dleitee",
+  "author": "Daniel Leite de Oliveira <dleitee@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
