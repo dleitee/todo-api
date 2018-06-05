@@ -1,5 +1,7 @@
 # todo-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dleitee/todo-api.svg)](https://greenkeeper.io/)
+
 Exemplo de api restful utilizando modelo de autenticação básica.
 
 ## Executar em localhost
